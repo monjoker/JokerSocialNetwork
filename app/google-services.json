@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "297887623393",
+    "firebase_url": "https://syntheticknowledge-8dfee.firebaseio.com",
+    "project_id": "syntheticknowledge-8dfee",
+    "storage_bucket": "syntheticknowledge-8dfee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297887623393:android:5f081c2019beda1b092fa0",
+        "android_client_info": {
+          "package_name": "com.example.syntheticknowledge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297887623393-b5veih9j0nordr0kllblof62m2hnnd9o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.syntheticknowledge",
+            "certificate_hash": "0824d01344c2b692497a9bb135177944a4586505"
+          }
+        },
+        {
+          "client_id": "297887623393-j50998uhpsuj6chdfhrknucjuc82a5n7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6FOsDpRPYhFhELYtxrKiKE7dI6d-vjFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297887623393-j50998uhpsuj6chdfhrknucjuc82a5n7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

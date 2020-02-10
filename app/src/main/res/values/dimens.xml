@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="corner_edit_text">5dp</dimen>
+    <dimen name="pading_edit_text">20dp</dimen>
+    <dimen name="start_text">10dp</dimen>
+</resources>

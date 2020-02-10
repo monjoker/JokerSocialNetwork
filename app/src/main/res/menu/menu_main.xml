@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/new_feed"
+        android:icon="@drawable/new_feed_ic"
+        android:title="@string/new_feed_title"/>
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/profile_ic"
+        android:title="@string/profile_title"/>
+    <item
+        android:id="@+id/notifications"
+        android:icon="@drawable/notifications_ic"
+        android:title="@string/notifications_title"/>
+    <item
+        android:id="@+id/options"
+        android:icon="@drawable/options_ic"
+        android:title="@string/options_title"/>
+</menu>
